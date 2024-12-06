@@ -29,4 +29,4 @@ with col2:
         st.image("https://cdn-icons-png.freepik.com/256/562/562678.png?semt=ais_hybrid", width=250)
     
 # Chat input
-st.link_button("Start Planning Meals", "https://recipe-planner-v1.streamlit.app/meal", icon="💬", type="primary", help="At your own convenience")
+st.link_button("Start Planning Meals", "https://recipe-meal-plannerv1.streamlit.app/symp", icon="💬", type="primary", help="At your own convenience")
