@@ -3,27 +3,27 @@ import streamlit as st
 
 # Define pages for the meal planner
 Home = st.Page(
-    page="Pages/welcome.py",
+    page="pages/welcome.py",
     title="Home",
     icon="🏠"
 )
 Recipe_Planner = st.Page(
-    page="Pages/symp.py",
+    page="pages/symp.py",
     title="Recipe Planner",
     icon="🍴"
 )
 Meal_History = st.Page(
-    page="Pages/Recipe_Planner.py",
+    page="pages/Recipe_Planner.py",
     title="Meal History",
     icon="📝"
 )
 About = st.Page(
-    page="Pages/overview.py",
+    page="pages/overview.py",
     title="About",
     icon="🧑‍🍳"
 )
 Socials = st.Page(
-    page="Pages/socials.py",
+    page="pages/socials.py",
     title="Socials",
     icon="🌐"
 )
