@@ -1,4 +1,4 @@
-Here's a README section for your project titled **Recipe Meal Planner using NLP**:
+### 🔗 [Live Demo](https://recipe-meal-plannerv1.streamlit.app/)
 # Recipe Meal Planner 
 
 
