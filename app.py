@@ -1,25 +1,6 @@
 import streamlit as st
 
-# Add custom styling
-st.html(
-    '''
-    <style>
-    h1{
-    color:Gray;
-    }
 
-    hr {
-        border-color: green;
-    }
-    p,li{
-        color:#333;
-    }
-    h3,h2{
-        color:#D97757;
-    }
-    </style>
-    '''
-)
 # Define pages for the meal planner
 Home = st.Page(
     page="Pages/welcome.py",
